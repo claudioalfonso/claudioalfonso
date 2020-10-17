@@ -48,10 +48,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=claudioalfonso&layout=compact)
 
 
-[twitter]: https://twitter.com/feliperubeen
-[youtube]: https://youtube.com/
-[instagram]: https://www.instagram.com/feliperubeen
-[linkedin]: https://www.linkedin.com/in/feliperubencunha/
+[twitter]: https://twitter.com/lablivrebelem
+[youtube]: https://youtube.com/mapinguari
+[instagram]: https://www.instagram.com/lablivrebelem
+[linkedin]: https://www.linkedin.com/in/claudioalfonso/
 
 <!--
 **claudioalfonso/claudioalfonso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
