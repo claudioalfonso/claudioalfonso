@@ -1,6 +1,6 @@
 ### Tudo Paidegua? Meu nome é claudio alfonso, sejam bem vindes! <3 👋
 
-### [PORTFOLIO](lablivre.org/blog) 
+### [PORTFOLIO](http://lablivre.org/blog) 
 
 ## I'm a Developer! - Eu sou um Desenvolvedor!
 - 🔭 I’m currently working on improving my React skills - Aprendendo React
