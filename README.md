@@ -2,12 +2,12 @@
 
 ### [PORTFOLIO](http://lablivre.org/blog) 
 
-## I'm a Developer! - Eu sou um Desenvolvedor!
-- 🔭 I’m currently working on improving my React skills - Aprendendo React
-- 🌱 I’m currently learning everything 🤣 - Aprendendo tudo
-- 👯 I’m looking to collaborate with other content creators - Quero colaborar com outros
-- 🥅 2020 Goals: Contribute more to Open Source projects and survive - Quero trabalhar mais com Open Source
-- ⚡ Fun fact: I love to play games and drive - Adoro jogar jogos e dirigir
+## I'm a Developer! - Coisador de código!
+- 🔭 Fuçando sempre com realidade aumentada e virtual agora começando com WebxR
+- 🌱 I’m currently learning everything 🤣 - Coisando as tecnologias
+- 👯 I’m looking to collaborate with other content creators - Bora logo mexe nisso que é!
+- 🥅 2020 Goals: Quero trabalhar mais com Free Software. Open Source é coisa de hipster!
+- ⚡ Fun fact: I love to play games and drink bacuri beer - Adoro jogar jogos e beber cerveja de bacuri
 
 ### Connect with me - Bora marcar logo esse açaí :P
 
