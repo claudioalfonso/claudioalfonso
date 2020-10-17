@@ -9,7 +9,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects and survive - Quero trabalhar mais com Open Source
 - ⚡ Fun fact: I love to play games and drive - Adoro jogar jogos e dirigir
 
-### Connect with me - Fale comigo:
+### Connect with me - Bora marcar logo esse açaí :P
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
