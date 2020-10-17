@@ -18,7 +18,7 @@
 <br />
 
 ### Languages and Tools - Linguagens e Ferramentas:
-[<img align="left" alt="DEV" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" />][linkedin]
+[<img align="left" alt="DEV" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" />][dev]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][linkedin]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][linkedin]
 <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
@@ -41,6 +41,7 @@
 [youtube]: https://youtube.com/mapinguari
 [instagram]: https://www.instagram.com/lablivrebelem
 [linkedin]: https://www.linkedin.com/in/claudioalfonso/
+[dev]:  https://dev.to/claudioalfonso
 
 <!--
 **claudioalfonso/claudioalfonso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
