@@ -2,7 +2,7 @@
 
 ### [PORTFOLIO](http://lablivre.org/blog) 
 
-## I'm a Developer! - Mexedor de código!
+## I'm a Developer! - Artista digital!
 - 🔭 Fuçando sempre com realidade aumentada e virtual agora começando com WebxR
 - 🌱 I’m currently learning everything 🤣 - Coisando as tecnologias
 - 👯 I’m looking to collaborate with other content creators - Bora logo mexer nisso que é!
