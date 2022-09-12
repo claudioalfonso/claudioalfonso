@@ -6,7 +6,7 @@
 - 🔭 Fuçando sempre com realidade aumentada e virtual agora começando com WebxR
 - 🌱 I’m currently learning everything 🤣 - Coisando as tecnologias
 - 👯 I’m looking to collaborate with other content creators - Bora logo mexer nisso que é!
-- 🥅 2020 Goals: Quero trabalhar mais com Free Software. Open Source é coisa de hipster!
+- 🥅 2022 Goals: Quero trabalhar mais com Free Software. Open Source é coisa de hipster!
 - ⚡ Fun fact: I love to play games and drink bacuri beer - Adoro jogar jogos e beber cerveja de bacuri
 
 ### Connect with me - Bora marcar logo esse açaí :P
