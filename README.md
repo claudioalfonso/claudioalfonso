@@ -1,6 +1,6 @@
 ### Tudo Paidegua? Meu nome é claudio alfonso, sejam bem vindes! <3 👋
 
-### [PORTFOLIO](http://lablivre.org/blog) 
+### [PORTFOLIO](http://lablivre.org/portifolio) 
 
 ## I'm a Developer! - Artista digital!
 - 🔭 Fuçando sempre com realidade aumentada e virtual agora começando com WebxR
